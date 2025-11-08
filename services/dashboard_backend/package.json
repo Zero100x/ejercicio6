@@ -1,8 +1,8 @@
 {
-  "name": "driver_simulator",
+  "name": "dashboard_backend",
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
-    "kafkajs": "^2.2.4"
+    "ws": "^8.14.2"
   }
 }
